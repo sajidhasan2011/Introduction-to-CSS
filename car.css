@@ -1,0 +1,12 @@
+p {
+  color: aqua;
+  text-align: initial;
+  font-size: 60px;
+  font-family: monospace;
+}
+h1 {
+  color: rgb(215, 255, 106);
+  text-align: center;
+  font-size: 40px;
+  font-family: serif;
+}
